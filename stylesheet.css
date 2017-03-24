@@ -84,6 +84,6 @@ a:hover {
 }
 
 #footer p {
-	position: relative;
+	position: bottom;
 	padding-top: 15px;
 }
