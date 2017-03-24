@@ -73,7 +73,7 @@ a:hover {
 }
 
 #footer {
-	position: bottom;
+	float: bottom;
 	height: 50px;
 	background-color: #668284;
 	clear: both;
